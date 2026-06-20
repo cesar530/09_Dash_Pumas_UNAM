@@ -189,6 +189,6 @@ SOFTWARE.
 
 - 👤 Autor : **César Adrián Delgado Díaz**
 - 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
+- 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
 
 ---

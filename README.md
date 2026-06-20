@@ -29,6 +29,7 @@ Este proyecto implementa un pipeline ETL completo en Python para procesar, trans
 
 ## 🏗️ Estructura del Proyecto
 
+```
 09_Dash_UNAM/
 ├── README.md                          # Este archivo
 ├── requirements.txt                   # Dependencias del proyecto
@@ -44,6 +45,7 @@ Este proyecto implementa un pipeline ETL completo en Python para procesar, trans
 │   └── dashboard_preview.png          # Preview del dashboard
 └── output/
     └── metrics_export.csv             # Métricas exportadas
+```
 
 ## 🚀 Instalación
 
@@ -159,7 +161,7 @@ Las contribuciones son bienvenidas. Por favor:
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
+```
 MIT License
 
 Copyright (c) 2026 César Adrián Delgado Díaz
@@ -181,13 +183,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ## 👤 Autor
 
--**César Adrián Delgado Díaz**
-
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
-- 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
 
 ---
